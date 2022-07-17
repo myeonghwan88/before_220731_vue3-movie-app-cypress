@@ -24,11 +24,11 @@
         </option>
       </select>
     </div>
-    <div
+    <button
       class="btn btn-primary"
       @click="apply">
       Apply
-    </div>
+    </button>
   </div>
 </template>
 

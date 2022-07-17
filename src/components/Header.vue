@@ -42,12 +42,12 @@ export default {
         },
         {
           name: 'Movie',
-          href: '/Movie/tt4520988',
+          href: '/movie/tt4520988',
           path: /^\/movie/ // '/movie'로 시작하는 모든 경로 일치
         },
         {
           name: 'About',
-          href: '/About'
+          href: '/about'
         }
       ]
     }
